@@ -1,3 +1,5 @@
+// Q. https://pdfhost.io/v/CtYZ5R~vK_suchPairReturnspdf.pdf
+
 function suchPairReturns(array, k) {
     array.sort(function (a, b) {
         return a - b;

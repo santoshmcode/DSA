@@ -1,3 +1,6 @@
+// Question Link
+// https://pdfhost.io/v/KoEsKwi5Q_subarrayAndSumpdf.pdf
+
 function subarrayAndSum(array, k) {
     var objOfSubArray = {};
     let sum = 0;
