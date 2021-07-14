@@ -1,3 +1,5 @@
+// Q https://pdfhost.io/v/m8Fet67FS_Make_Leaderboardpdf.pdf
+
 function giveRank(name, score) {
     let rank = 1;
     let pre = 0;
