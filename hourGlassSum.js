@@ -1,3 +1,5 @@
+// Question Link: https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=false
+
 let arr = [
   [ 1, 1, 1, 0, 0, 0 ],
   [ 0, 1, 0, 0, 0, 0 ],
