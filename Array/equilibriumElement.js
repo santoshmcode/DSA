@@ -25,7 +25,7 @@ function equlibrium(array) {
 
 // console.log(equlibrium(array));
 
-//
+////  Time Complexity O(n) & space Complexity O(1)
 
 function equlibrium2(array) {
     if (array.length < 3) return -1;
