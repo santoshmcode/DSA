@@ -38,3 +38,12 @@ let sortArray = function (nums) {
 };
 
 console.log(sortArray(nums));
+
+/* 
+    Approch to solve this problem
+
+    - consider a hypothis sort function is sorting the length n array
+    - on bases of above hypothis we can consider that sort function will also sort array of length n - 1
+    - now we just need to place the nth element in proper position in n - 1 length array which is already sorted
+
+*/
